@@ -94,3 +94,5 @@ table(encuesta_familia$respuesta_video_propuesto)
 table(encuesta_familia$seleccion_video)
 
 # ============================================================
+
+source("C:/proyectos/youtube-kids-analysis/03_analisis_encuesta.R")
